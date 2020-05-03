@@ -37,11 +37,5 @@ function economicalBowlers(matches,deliveries) {
     }
     return new_result;
   }
-<<<<<<< HEAD
-  // edited
-||||||| c784f1f
-  
-=======
->>>>>>> 59160525e86aaa019b6060d6ec90179c1d9aaa06
   module.exports = economicalBowlers;
   
