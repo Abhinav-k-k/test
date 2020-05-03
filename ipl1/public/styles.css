@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+#matches-played-per-year{
+    padding: 50px;
+    border-top-style:dotted ;
+    border-bottom-style:dotted;
+}
+#matches-won,#extra-runs,#economical_bowlers,#Top-bates-man {
+    padding: 50px;
+    border-bottom-style:dotted;
+}
